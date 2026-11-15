@@ -1,0 +1,37 @@
+
+# Mini-LLM-Explorer
+
+## Overview
+A beginner-friendly Large Language Model (LLM)
+text generation project built using Python and
+Hugging Face Transformers.
+
+## Model
+DistilGPT2
+
+## Technologies
+- Python
+- PyTorch
+- Hugging Face Transformers
+
+## Features
+- Pretrained language model loading
+- Prompt-based text generation
+- Adjustable generation parameters
+- Interactive command-line interface
+
+## Learning Objectives
+- Understand pretrained language models
+- Explore text generation
+- Learn basic LLM inference
+- Understand model parameters
+
+## Future Improvements
+- Experiment with larger language models
+- Explore AMD ROCm GPU acceleration
+- Compare CPU and GPU inference performance
+
+## Disclaimer
+This project uses a small pretrained text-generation
+model for educational experimentation. Its output
+may be inaccurate or repetitive.
