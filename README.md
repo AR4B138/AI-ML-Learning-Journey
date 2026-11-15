@@ -31,3 +31,16 @@ More projects and experiments will be added as I progress.
 
 ---
 *Learning, experimenting, and building with AI.*
+
+## Additional Projects
+
+### 1. Iris Flower Classification
+- Machine learning using Random Forest.
+- Dataset: Iris.
+- Library: Scikit-learn.
+
+### 2. Python Chatbot
+- Basic conversational chatbot.
+- Built using Python.
+- Demonstrates conditional logic and user interaction.
+- 
